@@ -6,9 +6,10 @@ Create a .htaccess file in root directory and add this code in it to change perm
 
 This will hit all the request on index.php page example 
 
+Example
 https://domain/shorten_link 
 
-This will hit index.php and shorten_link will be taken from the url 
+This will hit index.php and shorten_link will be taken from the url and script will perform action on that particular shorten link
 
 ```
 RewriteEngine On
