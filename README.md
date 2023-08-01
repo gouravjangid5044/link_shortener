@@ -1,6 +1,6 @@
 # link_shortener
 
-Live hoted link => www.shortify.live
+Live hosted link => www.shortify.live
 
 Create a .htaccess file in root directory and add this code in it to change permission 
 
